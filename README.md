@@ -6,7 +6,7 @@ Step-by step description on how to set up a development environment for PUS cour
 ## What are we going to need?
 
 In order to start developing the RESTful web services in Java, we need to set up a few tools. You should definitely start with obtaining the following:
-* Java 7 (at minimun, 8 is also fine)
+* Java 7 (at minimum, 8 is also fine)
 * Apache Maven 3
 * IntelliJ IDEA
 
