@@ -36,6 +36,8 @@ Once you've got all the tools set up, go ahead and generate the starter project
 
 ### Generating jersey-quickstart-webapp project using Maven archetype
 
+Choose either of the two approaches below
+
 #### Terminal-way
 1. Open the cmd/terminal and navigate to your development folder (the generation process will create a new folder under your current path)
 2. Execute `mvn archetype:generate -DgroupId=pl.lodz.p.pus -DartifactId=travelgood -DarchetypeGroupId=org.glassfish.jersey.archetypes -DarchetypeArtifactId=jersey-quickstart-webapp -DinteractiveMode=false`
