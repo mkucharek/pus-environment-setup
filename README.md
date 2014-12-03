@@ -79,10 +79,18 @@ Once you import the project, there's not much we can do if we do not configure I
 1. Start the server by clicking the green arrow in the top right part of the window or by using `Shift+F10` shortcut
 2. Your browser should fire up with the `Jersey RESTful Web Application!` greeting
 
+## REST / HTTP Clients
+
+In order to verify that the webservices you're building actually work, you will need to use some kind of tool that will let you prepare and send various HTTP requests. I'll list some recommended ones below:
+* Advanced REST Client for Chrome (recommended)
+* PostMan for Chrome
+* RESTClient for Firefox
+* rest-shell (command-line, but quite easy to use)
+* curl (low-level, command-line tool available OOTB on most unix/linux systems)
+
+
 ## TODOs
 * add some images
-* add REST clients sections
-* add cmd tools section
 
 
 
